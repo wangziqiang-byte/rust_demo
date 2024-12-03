@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "addr_lib",
+    "addr_one",
+    "addr_two",
+    "addr_service",
+]
+resolver = "2"

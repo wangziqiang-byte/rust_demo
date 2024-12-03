@@ -1,0 +1,7 @@
+[package]
+name = "addr_two"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+addr_one_lib = {path = "../addr_one/addr_one_lib" }

@@ -1,0 +1,9 @@
+[package]
+name = "addr_service"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+addr_one = { path = "../addr_one" }
+addr_two = { path = "../addr_two" }
+addr_lib = { path = "../addr_lib" }
